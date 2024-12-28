@@ -13,3 +13,8 @@ A collection to organize my work through of the Udemy course.
   Making the expense tracker responsive to different orientations
 - ## 📃[**Todo App**](https://github.com/NathanTh3Gr3at/todo_app):
 
+- ## 🥫[**Meals App**](https://github.com/NathanTh3Gr3at/meals_app) :
+  A meals app
+    - Riverpod state management
+    - simple animations
+    - preset recipes with internet images
