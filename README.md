@@ -14,7 +14,9 @@ A collection to organize my work through of the Udemy course.
 - ## 📃[**Todo App**](https://github.com/NathanTh3Gr3at/todo_app):
 
 - ## 🥫[**Meals App**](https://github.com/NathanTh3Gr3at/meals_app) :
-  A meals app
+    Features
     - Riverpod state management
     - simple animations
     - preset recipes with internet images
+- ## ✍️ [**Grocery List App**](https://github.com/NathanTh3Gr3at/shopping_list_app):
+    Features
